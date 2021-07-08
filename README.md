@@ -22,7 +22,7 @@
 &nbsp;
 
 #### 🌎 Sao Vicente, SP, Brazil :pushpin:
-#### :mag: Desenvolvedor back-end iniciante, sem experiência, procurando emprego. Begginer backend developer, without work experience, looking for a work.
+#### :mag: Begginer backend developer, without work experience, looking for a work.
 
 &nbsp;
 
