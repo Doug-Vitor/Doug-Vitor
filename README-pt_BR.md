@@ -42,4 +42,5 @@
 <img height="24em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
  
 &nbsp;
+
 [English](./README.md) | Português
