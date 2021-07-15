@@ -32,14 +32,11 @@
 <img height="24em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>&nbsp;
 <img height="24em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;
 
-- :wrench: &nbsp;
-<img height="24em" src="https://img.shields.io/badge/_-XAML-blue"/>&nbsp;
-
 - 📱 &nbsp;
 <img height="24em" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>&nbsp;
 
 - 🛢 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/-SQL%20Server-blue"/>&nbsp;
  
 &nbsp;
 
