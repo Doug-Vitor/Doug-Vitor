@@ -1,7 +1,7 @@
 <h1>Douglas Vitor<p align="left">
   
   &nbsp;
-    <a href="https://www.linkedin.com/in/douglas-vitor-dev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/douglasvitor-dev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </h1>
  
@@ -29,14 +29,15 @@
 ### Esforçando-me continuamente para aprender e dominar:
 
 - 💻 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>&nbsp;
 <img height="24em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge"/>&nbsp;
 
 - 📱 &nbsp;
 <img height="24em" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>&nbsp;
 
 - 🛢 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/-SQL%20Server-blue"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;
  
 &nbsp;
 
