@@ -29,14 +29,15 @@
 ### Continuously striving to learn and master the technologies below:
 
 - 💻 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>&nbsp;
 <img height="24em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge"/>&nbsp;
 
 - 📱 &nbsp;
 <img height="24em" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>&nbsp;
 
 - 🛢 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/-SQL%20Server-blue"/>&nbsp;
+<img height="24em" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;
  
 &nbsp;
 
