@@ -1,48 +1,32 @@
-<h1>Douglas Vitor<p align="left">
+<div align="center">
+  <h1 align="center">Douglas Vitor</h1>
+
+  #### :pushpin: Sao Vicente, SP, Brazil
+  #### 💻 Backend developer
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-vitor&layout=compact&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doug-vitor&theme=dark&show_icons=true"/>
   
   &nbsp;
-    <a href="https://www.linkedin.com/in/douglasvitor-dev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <div style="display: flex">
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
+  </div>
 
-</h1>
- 
-  
+  <br />
+  <a href="https://www.linkedin.com/in/douglasvitor-dev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<h1>
-  
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doug-vitor&theme=dark&show_icons=true"/>
-  </p>
-
-  <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-vitor&layout=compact&theme=dark&show_icons=true"/>
-  </p>
-  
-</h1>
-
-&nbsp;
-
-#### 🌎 Sao Vicente, SP, Brazil :pushpin:
-#### :mag: Begginer backend developer, without work experience, looking for a job.
-
-&nbsp;
-
-### Continuously striving to learn and master the technologies below:
-
-- :globe_with_meridians: &nbsp;
-<img height="24em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-<img height="24em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-
-- 💻 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;
-<img height="24em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>&nbsp;
-<img height="24em" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge"/>&nbsp;
-
-- 🛢 &nbsp;
-<img height="24em" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;
- 
-- :books: SOLID Patterns.
-- :books: Domain Driven Design.
- 
-&nbsp;
-
-English | [Português](./README-pt_BR.md)
+  English | <a href="https://github.com/Doug-Vitor/Doug-Vitor/blob/main/README-pt_BR.md">Português</a>
+</div>
