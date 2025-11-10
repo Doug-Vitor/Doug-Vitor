@@ -22,11 +22,18 @@
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
   </div>
+</div>
 
+<section>
+  <h2>📈 About Friendly Financing</h2>
+  A <a href="https://play.google.com/store/apps/details?id=com.dg.friendlyfinancing">utility app published on the Google Play Store</a> with real-world usage. Users have a powerful tool for managing their expenses and earnings.
+</section>
+
+<footer align="center">
   <br />
   <a href="https://www.linkedin.com/in/douglasvitor-dev/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   English | <a href="https://github.com/Doug-Vitor/Doug-Vitor/blob/main/README-pt_BR.md">Português</a>
-</div>
+</footer>
