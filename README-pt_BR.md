@@ -2,7 +2,8 @@
   <h1 align="center">Douglas Vitor</h1>
 
   #### :pushpin: Sao Vicente, SP, Brasil
-  #### 💻 Desenvolvedor backend
+  #### 💻 Desenvolvedor Fullstack
+  #### 🎓 Análise e Desenvolvimento de Sistemas
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-vitor&layout=compact&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doug-vitor&theme=dark&show_icons=true"/>
@@ -22,11 +23,18 @@
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
   </div>
+</div>
 
+<section>
+  <h2>📈 Sobre Friendly Financing</h2>
+  Um <a href="https://play.google.com/store/apps/details?id=com.dg.friendlyfinancing">aplicativo utilitário publicado na Google Play Store</a> com uso real. Os usuários contam com uma poderosa ferramenta para gerenciar seus gastos e ganhos.
+</section>
+
+<footer align="center">
   <br />
   <a href="https://www.linkedin.com/in/douglasvitor-dev/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   Português | <a href="https://github.com/doug-vitor">English</a>
-</div>
+</footer>
