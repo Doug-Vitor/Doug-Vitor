@@ -3,6 +3,7 @@
 
   #### :pushpin: Sao Vicente, SP, Brazil
   #### 💻 Backend developer
+  #### 🎓 Systems Analysis and Development
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-vitor&layout=compact&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doug-vitor&theme=dark&show_icons=true"/>
