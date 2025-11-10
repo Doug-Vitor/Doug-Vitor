@@ -2,7 +2,7 @@
   <h1 align="center">Douglas Vitor</h1>
 
   #### :pushpin: Sao Vicente, SP, Brazil
-  #### 💻 Backend developer
+  #### 💻 Fullstack developer
   #### 🎓 Systems Analysis and Development
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-vitor&layout=compact&theme=dark&show_icons=true"/>
