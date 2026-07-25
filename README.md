@@ -25,11 +25,6 @@
   </div>
 </div>
 
-<section>
-  <h2>📈 About Friendly Financing</h2>
-  A <a href="https://play.google.com/store/apps/details?id=com.dg.friendlyfinancing">utility app published on the Google Play Store</a> with real-world usage. Users have a powerful tool for managing their expenses and earnings.
-</section>
-
 <footer align="center">
   <br />
   <a href="https://www.linkedin.com/in/douglasvitor-dev/">
